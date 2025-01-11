@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 24px 160px;
+}
+.logo{
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0%;
+    text-align: left;
+    
+    
+}
+nav ul li {
+    list-style: none;
+
+}
+nav ul li button{
+    text-decoration: none;
+    font-size: 18px;
+    font-family: Fira Sans;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding: 15px 30px 15px 30px;
+    color: rgb(0, 106, 80);
+    box-sizing: border-box;
+    border: 1px solid rgb(0, 106, 80);
+    border-radius: 8px;   
+}
+
+.p1{
+    color: rgba(14, 14, 14, 0.5);
+    font-family: Fira Sans;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding: 0 0 16px;
+
+}
+.h3{
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 64px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding: 0 0 24px;
+}
+.btn1{
+    position: static;
+    width: 270px;
+    height: 56px;
+/* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 48;
+    padding: 17px 34px 17px 34px;
+    border-radius: 8px;
+    background: rgb(0, 106, 80);
+    color: rgb(255, 255, 255);
+    font-family: Fira Sans;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.banner-profile-picture{
+    
+     width: 474.03px;
+     
+
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+    margin: 138px 160px 4621px 160px;
+    border: solid rgb(198, 228, 214);
+    border-radius: 24px;
+    padding: 45px 65px 45px 65px;
+    background: rgb(198, 228, 214);
+
+
+
+}
+
