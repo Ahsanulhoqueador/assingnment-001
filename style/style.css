@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    background-image: rgb(245, 245, 245);
 }
 
 
@@ -93,7 +94,7 @@ nav ul li button{
 .banner{
     display: flex;
     justify-content: space-between;
-    margin: 138px 160px 4621px 160px;
+    margin: 138px 160px 0 160px;
     border: solid rgb(198, 228, 214);
     border-radius: 24px;
     padding: 45px 65px 45px 65px;
@@ -101,5 +102,53 @@ nav ul li button{
 
 
 
+}
+.box1{
+    width: 302px;
+    height: 244px;
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    background:rgb(255, 255, 255)
+}
+.hero2{
+    padding: 80px 160px 0 160px;
+    display: flex;
+    gap: 24px;
+    
+}
+.h3-1{
+    padding: 80px 160px 32px ;
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: left;
+
+}
+.card-icon{
+    padding: 25px ;
+}
+.h3-2{
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding: 0 24px 0 24px;
+}
+.p2{
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding: 12px 24px 24px 24px;
 }
 
