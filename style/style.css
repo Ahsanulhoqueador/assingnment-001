@@ -151,4 +151,72 @@ nav ul li button{
     text-align: left;
     padding: 12px 24px 24px 24px;
 }
+.hero3{
+    padding: 80px 160px 0 160px;
+}
+.h3-3{
+    padding: 0 0 24px;
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.p3{
+ color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+}
+.box2{
+    width: 410.67px;
+    height: 325px;
+    border: 1px solid;
+    border-radius: 16px;
+    background: rgba(84, 144, 245, 0.2);
+    
+}
+.box-2{
+    display: flex;
+    padding: 32px 160px 0 160px;
+    gap: 24px;
+    
+}
+.box-colour{
+    width: 410.67px;
+    height: 325px;
+    background: rgb(198, 228, 214);
+    border-radius: 16px;
+}
+.box-colour1{
+    width: 410.67px;
+    height: 325px;
+    background:rgb(247, 235, 207);
+    border-radius: 16px;
+}
+.p4{
+    padding: 12px 26px 0 26px;
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.btn2{
+    margin: 24px 32px 0 32px;
+    background-color: rgb(84, 144, 245);
+    border-radius: 8px;
+    padding: 11px 20px 11px 20px;
+    color: aliceblue;
+    border: 1px solid  rgb(84, 144, 245);
+}
+
+
 
