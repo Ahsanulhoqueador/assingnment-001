@@ -586,11 +586,134 @@ border-bottom: 1px solid rgba(14, 14, 14, 0.15);
     flex: none;
     order: 1;
     flex-grow: 0;
-    margin: 32px 724px 0 724px ;
+    margin: 32px 724px 0 666px ;
     border-radius: 8px;
     
     background: rgb(0, 106, 80);
     color: aliceblue;
 
 
+}
+
+
+.h3-last{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: center;
+padding: 80px;
+}
+.p-last{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: center;
+padding: 1px;
+}
+/* .input-last{
+    border-radius: 8px 0px 0px 8px;
+background: rgb(255, 255, 255);
+/* Frame 2087325514 */
+/* position: static;
+width: 500px;
+height: 20pxpx; */ */
+/* Auto layout */
+/* display: flex;
+/* flex-direction: column;
+justify-content: flex-start; */
+/* align-items: center;
+gap: 24;
+ padding: 18px 40px 18px 40px;  */
+
+
+/* Inside Auto Layout */
+/* flex: none;
+order: 0;
+flex-grow: 0;
+margin: 100px 400px 0px 375px; */
+/* } */
+/* .last-bnt{ */
+    /* Frame 2087325504
+/* position: static; */
+/* width: 150px;
+height: 56px;
+/* Auto layout */
+/* display: flex; */
+/* flex-direction: row; */
+/* justify-content: center;
+align-items: center; */ 
+
+/* padding: 17px 25px 17px 34px; */
+
+
+/* Inside Auto Layout */
+/* flex: none;
+order: 1;
+flex-grow: 0; */
+/* margin: 0px 1025px 250px ;
+border-radius: 0px 8px 8px 0px;
+
+background: rgb(0, 106, 80); */ 
+
+
+.fi{
+    /* We promise not to spam you! */
+position: static;
+width: 622px;
+height: 19px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+gap: 24;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 24px 0px;
+color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: center;
+}
+.hello{
+    /* Bangladesh 2.0 */
+position: static;
+width: 222px;
+height: 38px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+gap: 16;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 16px 0px;
+color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 32px;
+font-weight: 700;
+line-height: 38px;
+letter-spacing: 0%;
+text-align: left;
+margin: 130px 689px 0 689px;
 }
